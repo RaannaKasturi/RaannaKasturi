@@ -1,5 +1,5 @@
 - Hello, I'm Nayan Kasturi, aka Raanna. I'm a Student of Biotechnology & Bioinformatics, with a curiosity for new and old technology, alike.
-- I'm highly intrested in the new era of AI revolution and a firm believer of "_AI For All_". And thus my project exists, [Project ANJALI (https://github.com/RaannaKasturi#project-anjali-).
+- I'm highly intrested in the new era of AI revolution and a firm believer of "_AI For All_". And thus my project exists, [Project ANJALI](https://github.com/RaannaKasturi#project-anjali-).
 
 ## Project ANJALI [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4vJnDPdU34)
 - ANJALI stands for **A**pproach for **N**ovices' **J**ourney into **A**I **L**earning & **I**mplementation, registered under MSME Scheme.
