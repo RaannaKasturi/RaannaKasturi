@@ -1,5 +1,5 @@
 - Hello, I'm Nayan Kasturi, aka Raanna. I'm a Student of Biotechnology & Bioinformatics, with a curiosity for new and old technology, alike.
-- I'm highly intrested in the new era of AI revolution and a firm believer of "_AI For All_". And thus my projects exists.
+- I'm highly intrested in the new era of AI revolution and a firm believer of "**_AI For All_**". And thus my projects exists.
 
 ### Projects
 1. [VILID - Vocabulary Impelled Limitless Imagination Design](https://github.com/RaannaKasturi/VILID)
