@@ -2,7 +2,7 @@
 - I'm highly intrested in the new era of AI revolution and a firm believer of "**_AI For All_**". And thus my projects exists.
 
 ### Projects
-1. [VILID - Vocabulary Impelled Limitless Imagination Design](https://github.com/RaannaKasturi/VILID)
+1. [VISUAL Colabs](https://github.com/RaannaKasturi/visual-colabs) for visual art generation
 2. [ANNA - Artificial Neural Net Assistant](https://github.com/RaannaKasturi/ANNA)
 
 ### Coding Languages
