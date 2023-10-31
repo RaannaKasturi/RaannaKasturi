@@ -23,3 +23,7 @@
 <img src="https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/icons/Wordpress.svg" width="65" height="65" alt="WordPress" /> &nbsp;
 <img src="https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/icons/Workers-Dark.svg" width="65" height="65" alt="Workers" /> &nbsp;
 <img src="https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/icons/Exploring.svg" width="65" height="65" alt="Exploring" /> <-- Exploring....&nbsp;
+
+## GitHub Profile Stats 💻
+<a> <img alt="RaannaKasturi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=RaannaKasturi&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=242938&title_color=2E91F7&text_color=C2C2C2&icon_color=2E91F7" height="192px" /></a>
+<a> <img alt="RaannaKasturi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaannaKasturi&langs_count=8&layout=compact&theme=default&hide_border=false&bg_color=242938&title_color=2E91F7&text_color=C2C2C2&icon_color=2E91F7" height="192px" /></a>
