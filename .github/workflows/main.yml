@@ -31,17 +31,9 @@ jobs:
           base_hireable: yes
           base_indepth: yes
           base_skip: yes
-          config_display: large
           config_octicon: yes
           config_timezone: Asia/Calcutta
           config_twemoji: yes
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -52,7 +44,6 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_fortune: yes
-          plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: chartist
           plugin_habits_days: 14
@@ -69,8 +60,8 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
           plugin_languages_limit: 5
+          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -78,7 +69,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://nayankasturi.eu.org
           plugin_people: yes
           plugin_people_identicons: yes
