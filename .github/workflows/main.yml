@@ -34,6 +34,7 @@ jobs:
           config_octicon: yes
           config_display: large
           config_timezone: Asia/Calcutta
+          plugin_traffic: yes
           config_twemoji: yes
           plugin_activity: yes
           plugin_activity_days: 14
