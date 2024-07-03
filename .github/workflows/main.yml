@@ -32,7 +32,6 @@ jobs:
           base_indepth: yes
           base_skip: yes
           config_octicon: yes
-          config_display: large
           config_timezone: Asia/Calcutta
           config_twemoji: yes
           plugin_activity: yes
