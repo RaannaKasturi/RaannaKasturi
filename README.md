@@ -30,9 +30,5 @@ Autodidact | Bioinformatics | Curious Artist | Writer I'm all about learning new
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raannakasturi) &nbsp;&nbsp;&nbsp;&nbsp; [![Github Sponsors](https://img.shields.io/badge/github_sponsors-grey?style=for-the-badge&logo=githubsponsors&labelColor=black&color=black)](https://github.com/sponsors/RaannaKasturi)
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Metrics](/github-metrics.svg)
-
 ## GitHub Profile Trophy 🏆
 ![trophy](https://github-profile-trophy.vercel.app/?username=RaannaKasturi&row=1&margin-w=40)
