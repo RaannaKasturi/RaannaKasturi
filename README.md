@@ -2,10 +2,9 @@
 
 # 💫 About Me:
 Autodidact | Bioinformatics | Curious Artist | Writer I'm all about learning new ways for applications of the tech, with some modifications, ofc.<br>
-🔭 I’m currently working on Frontend of ReXplore<br>
-👯 I’m looking to collaborate on Nothing, as of now<br>
-🤝 I’m looking for help with Python and JavaScript<br>
-🌱 I’m currently learning NextJS and API Management<br>
+🔭 I’m currently working on A Free Streaming Platform - Streamora<br>
+🤝 I’m looking for help with Flutter's Better Video Player Package<br>
+🌱 I’m currently learning State Management in Flutter<br>
 💬 Ask me about AI & Ml and Bioinformatics<br>
 ⚡ Fun fact: I own Binary Biology
 
