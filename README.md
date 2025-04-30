@@ -1,12 +1,10 @@
 # Hello there, I'm Nayan Kasturi, aka RAANNA &nbsp;&nbsp; ![RaannaKasturi's github activity graph](https://komarev.com/ghpvc/?username=RaannaKasturi&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
 # 💫 About Me:
-Autodidact | Bioinformatics | Curious Artist | Writer I'm all about learning new ways for applications of the tech, with some modifications, ofc.<br>
-🔭 I’m currently working on A Free Streaming Platform - Streamora<br>
-🤝 I’m looking for help with Flutter's Better Video Player Package<br>
-🌱 I’m currently learning State Management in Flutter<br>
+Flutter, Web & Python Developer | Autodidact | Bioinformatician | I'm all about learning new ways for applications of the tech, with some modifications, ofc.<br>
+🔭 I’m currently working on Streamora -  Free Open Source Alternative to all Stremaing Apps based on Flutter<br>
 💬 Ask me about AI & Ml and Bioinformatics<br>
-⚡ Fun fact: I own Binary Biology
+⚡ Fun fact: I own the startup - [Binary Biology](https://binarybiology.top/)
 
 
 ## 🌐 Socials:
