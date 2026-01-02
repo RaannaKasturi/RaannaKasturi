@@ -4,7 +4,7 @@
 Flutter, Web & Python Developer | Autodidact | Bioinformatician | I'm all about learning new ways for applications of the tech, with some modifications, ofc.<br>
 🔭 I’m currently working on Streamora -  Free Open Source Alternative to all Stremaing Apps based on Flutter<br>
 💬 Ask me about AI & Ml and Bioinformatics<br>
-⚡ Fun fact: I own the startup - [Binary Biology](https://binarybiology.top/)
+⚡ Fun fact: I own the startup - [Pandrilla Labs](https://pandrillalabs.com/)
 
 
 ## 🌐 Socials:
